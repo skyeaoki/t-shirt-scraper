@@ -1,0 +1,15 @@
+{
+  "name": "content-scraper",
+  "version": "0.0.1",
+  "description": "A web scraper for Mike's T-shirts",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Skye Aoki",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^3.11.5",
+    "scrape-it": "^3.3.3"
+  }
+}
