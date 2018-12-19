@@ -4,12 +4,13 @@
   "description": "A web scraper for Mike's T-shirts",
   "main": "main.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Skye Aoki",
   "license": "ISC",
   "dependencies": {
     "json2csv": "^3.11.5",
-    "scrape-it": "^3.3.3"
+    "scrape-it": "^5.1.1"
   }
 }
